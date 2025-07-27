@@ -1,0 +1,8 @@
+url,status
+https://www.python.org,200
+https://www.apple.com/in/,200
+https://www.amazon.in,503
+https://www.github.com,200
+https://www.google.com,200
+https://www.stackoverflow.com,200
+https://www.apple.com/in/cw,404
